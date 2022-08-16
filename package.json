@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "bai1",
+=======
+  "name": "bai2",
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",

@@ -3,7 +3,11 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
+<<<<<<< HEAD
     "bai1": {
+=======
+    "bai2": {
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +17,11 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
+<<<<<<< HEAD
             "outputPath": "dist/bai1",
+=======
+            "outputPath": "dist/bai2",
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -64,10 +72,17 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
+<<<<<<< HEAD
               "browserTarget": "bai1:build:production"
             },
             "development": {
               "browserTarget": "bai1:build:development"
+=======
+              "browserTarget": "bai2:build:production"
+            },
+            "development": {
+              "browserTarget": "bai2:build:development"
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
             }
           },
           "defaultConfiguration": "development"
@@ -75,7 +90,11 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
+<<<<<<< HEAD
             "browserTarget": "bai1:build"
+=======
+            "browserTarget": "bai2:build"
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
           }
         },
         "test": {

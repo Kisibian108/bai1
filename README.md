@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Bai1
+=======
+# Bai2
+>>>>>>> 8d436bd5e64558c985663f1d3a8e9e0809430a8e
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
